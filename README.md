@@ -1,6 +1,4 @@
-## JAYA AGUNG TEKNOLOGI
-
-Kerjakan dengan cara yang menurut anda paling efisien, yang menghasilkan user experience dan perfomance yang terbaik.
+Silahkan kerjakan dengan cara yang menurut anda paling efisien, yang menghasilkan user experience dan perfomance yang terbaik.
 
 ### 1. Konversi object dibawah untuk mendapat hasil yang diinginkan tanpa assign ke variabel baru
 
